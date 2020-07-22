@@ -1,4 +1,3 @@
-# VBA-challenge
 Sub stock_data()
 
 
